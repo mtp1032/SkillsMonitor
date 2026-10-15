@@ -4,7 +4,7 @@ SkillsMonitor displays floating messages for all skill gains including skill ups
 
 ## Supported clients
 
-Tested on WoW Forever. Reportedly runs on Classic. Also runs on higher level expansions, but it only recognizes Classic-era herb and ore nodes.
+Tested on WoW Forever. Reportedly runs on Classic. Although not tested extensively, the AddOn runs on higher previous expansions, particularly TBC Anniversary and retail. However, not that SkillsMonitor only recognizes Classic-era herb and ore nodes.
 
 ## Installation
 
