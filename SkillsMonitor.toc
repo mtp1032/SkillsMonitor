@@ -2,8 +2,8 @@
 ##----------------------------------------------------------------------
 ## Title: SkillsMonitor
 ## Notes: Displays ChatMSG texts (LOOT, SKILL, MONEY) to the player
-## X-MAJOR: 0 
-## X-MINOR: 1
+## X-MAJOR: 1 
+## X-MINOR: 0
 ## X-PATCH: 0
 ## X-Expansions: TBC Anniversary, Midnight, WoWForever (Beta_
 ## IconTexture: 1392956
