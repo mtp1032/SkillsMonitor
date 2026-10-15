@@ -1,0 +1,26 @@
+## Interface: 120100, 16001, 50504, 38000, 20506, 11508, 11509
+##----------------------------------------------------------------------
+## Title: SkillsMonitor
+## Notes: Displays ChatMSG texts (LOOT, SKILL, MONEY) to the player
+## X-MAJOR: 0 
+## X-MINOR: 1
+## X-PATCH: 0
+## X-Expansions: TBC Anniversary, Midnight, WoWForever (Beta_
+## IconTexture: 1392956
+## 16 August, 2026
+## X-github: https://GitHub.com/mtp1032/SkillsMonitor
+
+##---------------------------------------------
+##              AddOn Code
+##---------------------------------------------
+
+Locales.lua 
+Debug.lua
+SkillsMessages.lua
+GatherNode.lua
+##---------------------------------------------
+##              Testing Code
+## Uncomment Tests.lua and reload the addon to
+## test.
+##---------------------------------------------
+##Tests.lua
