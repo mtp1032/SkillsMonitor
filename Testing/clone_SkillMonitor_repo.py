@@ -9,8 +9,6 @@ repo_url = "https://github.com/mtp1032/SkillsMonitor.git"
 # Define the list of target directories
 target_directories = [
     r"C:\Program Files (x86)\World of Warcraft\_retail\Interface\AddOns",
-    r"C:\Program Files (x86)\World of Warcraft\_anniversary_\Interface\AddOns", # Anniversary
-    r"C:\Program Files (x86)\World of Warcraft\_classic_\Interface\AddOns",     # Classic Vanilla
     r"C:\Program Files (x86)\World of Warcraft\_classic_era_\Interface\AddOns", # MOP
     r"C:\Program Files (x86)\World of Warcraft\_classic_beta_\Interface\AddOns", # WoW Forever - Beta
 ]
